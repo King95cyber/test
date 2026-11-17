@@ -1,0 +1,1 @@
+There is 3 files of HTML, CSS & Javascript to create a weather app website where you can check the weather of your location
